@@ -1,0 +1,118 @@
+{
+  "status": 200,
+  "message": "Successfully retrieved the list of Beacon information.",
+  "data": [
+    {
+      "id": 3,
+      "name": "evac-ECOS1",
+      "txPower": -59,
+      "coordinate": {
+        "latitude": "55.60911558342481",
+        "longitude": "12.994535773641287"
+      },
+      "space": {
+        "id": 1,
+        "name": "C0526",
+        "zone": "C",
+        "floor": 5,
+        "building_id": 101
+      }
+    },
+    {
+      "id": 5,
+      "name": "evac-ECOS2",
+      "txPower": -59,
+      "coordinate": {
+        "latitude": "55.60906814527464",
+        "longitude": "12.994569007542717"
+      },
+      "space": {
+        "id": 1,
+        "name": "C0526",
+        "zone": "C",
+        "floor": 5,
+        "building_id": 101
+      }
+    },
+    {
+      "id": 6,
+      "name": "evac-WtW3",
+      "txPower": -59,
+      "coordinate": {
+        "latitude": "55.60899762067856",
+        "longitude": "12.994762661582842"
+      },
+      "space": {
+        "id": 3,
+        "name": "B0501",
+        "zone": "B",
+        "floor": 5,
+        "building_id": 101
+      }
+    },
+    {
+      "id": 8,
+      "name": "evac-WtW2",
+      "txPower": -59,
+      "coordinate": {
+        "latitude": "55.60899269688919",
+        "longitude": "12.994613128430261"
+      },
+      "space": {
+        "id": 3,
+        "name": "B0501",
+        "zone": "B",
+        "floor": 5,
+        "building_id": 101
+      }
+    },
+    {
+      "id": 7,
+      "name": "evac-WtW5",
+      "txPower": -59,
+      "coordinate": {
+        "latitude": "55.60900784700843",
+        "longitude": "12.994672137028589"
+      },
+      "space": {
+        "id": 3,
+        "name": "B0501",
+        "zone": "B",
+        "floor": 5,
+        "building_id": 101
+      }
+    },
+    {
+      "id": 2,
+      "name": "evac-WtW4",
+      "txPower": -59,
+      "coordinate": {
+        "latitude": "55.60912601773758",
+        "longitude": "12.994628551132097"
+      },
+      "space": {
+        "id": 1,
+        "name": "C0526",
+        "zone": "C",
+        "floor": 5,
+        "building_id": 101
+      }
+    },
+    {
+      "id": 4,
+      "name": "evac-DISS 3",
+      "txPower": -59,
+      "coordinate": {
+        "latitude": "55.60906200863682",
+        "longitude": "12.99463257444562"
+      },
+      "space": {
+        "id": 1,
+        "name": "C0526",
+        "zone": "C",
+        "floor": 5,
+        "building_id": 101
+      }
+    }
+  ]
+}
