@@ -1,7 +1,4 @@
-{
-  "status": 200,
-  "message": "Successfully retrieved the list of Beacon information.",
-  "data": [
+[
     {
       "id": 18,
       "name": "evac-13iN066P",
@@ -339,4 +336,3 @@
       }
     }
   ]
-}
