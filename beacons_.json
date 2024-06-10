@@ -1,0 +1,342 @@
+{
+  "status": 200,
+  "message": "Successfully retrieved the list of Beacon information.",
+  "data": [
+    {
+      "id": 18,
+      "name": "evac-13iN066P",
+      "txPower": -77,
+      "coordinate": {
+        "latitude": "55.60898378470017",
+        "longitude": "12.99461783604525"
+      },
+      "space": {
+        "id": 11,
+        "name": "B0601",
+        "zone": "B",
+        "floor": 6,
+        "building_id": 101
+      }
+    },
+    {
+      "id": 19,
+      "name": "evac-13i50666",
+      "txPower": -77,
+      "coordinate": {
+        "latitude": "55.609020490701184",
+        "longitude": "12.994660023158138"
+      },
+      "space": {
+        "id": 11,
+        "name": "B0601",
+        "zone": "B",
+        "floor": 6,
+        "building_id": 101
+      }
+    },
+    {
+      "id": 20,
+      "name": "evac-13i9066A",
+      "txPower": -77,
+      "coordinate": {
+        "latitude": "55.609128658968324",
+        "longitude": "12.994629403150393"
+      },
+      "space": {
+        "id": 9,
+        "name": "C0626",
+        "zone": "C",
+        "floor": 6,
+        "building_id": 101
+      }
+    },
+    {
+      "id": 21,
+      "name": "evac-13iP066Q",
+      "txPower": -77,
+      "coordinate": {
+        "latitude": "55.60910025257748",
+        "longitude": "12.994529155588461"
+      },
+      "space": {
+        "id": 9,
+        "name": "C0626",
+        "zone": "C",
+        "floor": 6,
+        "building_id": 101
+      }
+    },
+    {
+      "id": 22,
+      "name": "evac-13i60667",
+      "txPower": -77,
+      "coordinate": {
+        "latitude": "55.60896723948291",
+        "longitude": "12.994785944538684"
+      },
+      "space": {
+        "id": 6,
+        "name": "B0503",
+        "zone": "B",
+        "floor": 5,
+        "building_id": 101
+      }
+    },
+    {
+      "id": 3,
+      "name": "evac-ECOS1",
+      "txPower": -59,
+      "coordinate": {
+        "latitude": "55.60911558342481",
+        "longitude": "12.994535773641287"
+      },
+      "space": {
+        "id": 1,
+        "name": "C0526",
+        "zone": "C",
+        "floor": 5,
+        "building_id": 101
+      }
+    },
+    {
+      "id": 9,
+      "name": "evac-13i80669",
+      "txPower": -77,
+      "coordinate": {
+        "latitude": "55.60894099435514",
+        "longitude": "12.99480893972523"
+      },
+      "space": {
+        "id": 7,
+        "name": "B0504",
+        "zone": "B",
+        "floor": 5,
+        "building_id": 101
+      }
+    },
+    {
+      "id": 5,
+      "name": "evac-ECOS2",
+      "txPower": -59,
+      "coordinate": {
+        "latitude": "55.60906814527464",
+        "longitude": "12.994569007542717"
+      },
+      "space": {
+        "id": 1,
+        "name": "C0526",
+        "zone": "C",
+        "floor": 5,
+        "building_id": 101
+      }
+    },
+    {
+      "id": 6,
+      "name": "evac-WtW3",
+      "txPower": -59,
+      "coordinate": {
+        "latitude": "55.60899762067856",
+        "longitude": "12.994762661582842"
+      },
+      "space": {
+        "id": 3,
+        "name": "B0501",
+        "zone": "B",
+        "floor": 5,
+        "building_id": 101
+      }
+    },
+    {
+      "id": 8,
+      "name": "evac-WtW2",
+      "txPower": -59,
+      "coordinate": {
+        "latitude": "55.60899269688919",
+        "longitude": "12.994613128430261"
+      },
+      "space": {
+        "id": 3,
+        "name": "B0501",
+        "zone": "B",
+        "floor": 5,
+        "building_id": 101
+      }
+    },
+    {
+      "id": 7,
+      "name": "evac-WtW5",
+      "txPower": -59,
+      "coordinate": {
+        "latitude": "55.60900784700843",
+        "longitude": "12.994672137028589"
+      },
+      "space": {
+        "id": 3,
+        "name": "B0501",
+        "zone": "B",
+        "floor": 5,
+        "building_id": 101
+      }
+    },
+    {
+      "id": 2,
+      "name": "evac-WtW4",
+      "txPower": -59,
+      "coordinate": {
+        "latitude": "55.60912601773758",
+        "longitude": "12.994628551132097"
+      },
+      "space": {
+        "id": 1,
+        "name": "C0526",
+        "zone": "C",
+        "floor": 5,
+        "building_id": 101
+      }
+    },
+    {
+      "id": 4,
+      "name": "evac-DISS 3",
+      "txPower": -59,
+      "coordinate": {
+        "latitude": "55.60906200863682",
+        "longitude": "12.99463257444562"
+      },
+      "space": {
+        "id": 1,
+        "name": "C0526",
+        "zone": "C",
+        "floor": 5,
+        "building_id": 101
+      }
+    },
+    {
+      "id": 10,
+      "name": "evac-13iC066D",
+      "txPower": -77,
+      "coordinate": {
+        "latitude": "55.60890961359173",
+        "longitude": "12.994831060362682"
+      },
+      "space": {
+        "id": 7,
+        "name": "B0504",
+        "zone": "B",
+        "floor": 5,
+        "building_id": 101
+      }
+    },
+    {
+      "id": 11,
+      "name": "evac-13iG066H",
+      "txPower": -77,
+      "coordinate": {
+        "latitude": "55.6089355481736",
+        "longitude": "12.99474592254617"
+      },
+      "space": {
+        "id": 7,
+        "name": "B0504",
+        "zone": "B",
+        "floor": 5,
+        "building_id": 101
+      }
+    },
+    {
+      "id": 12,
+      "name": "evac-13iL066M",
+      "txPower": -77,
+      "coordinate": {
+        "latitude": "55.60895677361244",
+        "longitude": "12.994664566735397"
+      },
+      "space": {
+        "id": 8,
+        "name": "B0541",
+        "zone": "B",
+        "floor": 5,
+        "building_id": 101
+      }
+    },
+    {
+      "id": 13,
+      "name": "evac-13iD066E",
+      "txPower": -77,
+      "coordinate": {
+        "latitude": "55.6088887821241",
+        "longitude": "12.994746570778712"
+      },
+      "space": {
+        "id": 8,
+        "name": "B0541",
+        "zone": "B",
+        "floor": 5,
+        "building_id": 101
+      }
+    },
+    {
+      "id": 14,
+      "name": "evac-13iH066J",
+      "txPower": -77,
+      "coordinate": {
+        "latitude": "55.60902231774789",
+        "longitude": "12.994589355401676"
+      },
+      "space": {
+        "id": 10,
+        "name": "C0627",
+        "zone": "C",
+        "floor": 6,
+        "building_id": 101
+      }
+    },
+    {
+      "id": 15,
+      "name": "evac-13iM066N",
+      "txPower": -77,
+      "coordinate": {
+        "latitude": "55.60907515372341",
+        "longitude": "12.994625565223377"
+      },
+      "space": {
+        "id": 10,
+        "name": "C0627",
+        "zone": "C",
+        "floor": 6,
+        "building_id": 101
+      }
+    },
+    {
+      "id": 16,
+      "name": "evac-13i40665",
+      "txPower": -77,
+      "coordinate": {
+        "latitude": "55.60896750980301",
+        "longitude": "12.994785460359468"
+      },
+      "space": {
+        "id": 11,
+        "name": "B0601",
+        "zone": "B",
+        "floor": 6,
+        "building_id": 101
+      }
+    },
+    {
+      "id": 17,
+      "name": "evac-13iJ066K",
+      "txPower": -77,
+      "coordinate": {
+        "latitude": "55.60898190242567",
+        "longitude": "12.994693594700708"
+      },
+      "space": {
+        "id": 11,
+        "name": "B0601",
+        "zone": "B",
+        "floor": 6,
+        "building_id": 101
+      }
+    }
+  ]
+}
